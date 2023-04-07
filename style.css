@@ -3,6 +3,7 @@ html {
   width: 100%;
 }
 
+/* set a small margin on the image and format to fit the page*/
 img{
   max-width: 100%;
   max-height: 100%;
@@ -10,7 +11,7 @@ img{
   margin-bottom: 10px;
   
 }
-
+/* formatting below the different containers throughout the HTML*/
 header{
   background-color: #d68c45;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -44,7 +45,7 @@ article{
   font-size: 16px;
   color: black;
 }
-
+/* formatting lists to be more visually appealing including removing bulleting */
 ol{
   margin: 0 auto;
   width: 70%;
